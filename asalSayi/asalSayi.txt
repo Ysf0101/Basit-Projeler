@@ -1,0 +1,1 @@
+0 - 20 Arasinda Olan Asal Sayilar: [2, 3, 5, 7, 11, 13, 17, 19]
